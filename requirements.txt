@@ -3,8 +3,8 @@ Flask-Cors==3.0.8
 Flask-Login==0.4.1
 Flask-Session==0.3.1
 Flask-SocketIO==4.2.1
+flatbuffers==1.11
 gunicorn==20.0.4
-isort==4.3.21
 itsdangerous==1.1.0
 jedi==0.15.1
 Jinja2==2.10
@@ -15,5 +15,16 @@ jupyter==1.0.0
 jupyter-client==5.3.3
 jupyter-console==6.0.0
 jupyter-core==4.5.0
+notebook==6.0.1
+numpy==1.18.1
+pandas==0.25.1
+pandocfilters==1.4.2
+python-dateutil==2.8.0
+python-engineio==3.10.0
+python-socketio==4.3.1
+requests==2.18.4
+wasabi==0.6.0
+wcwidth==0.1.7
 webencodings==0.5.1
 Werkzeug==0.14.1
+widgetsnbextension==3.5.1
