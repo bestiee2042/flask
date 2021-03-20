@@ -7,7 +7,7 @@ flatbuffers==1.11
 gunicorn==20.0.4
 itsdangerous==1.1.0
 jedi==0.15.1
-Jinja2==2.10
+Jinja2==2.11.3
 jmespath==0.9.4
 joblib==0.13.2
 jsonschema==3.0.2
