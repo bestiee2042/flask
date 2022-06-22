@@ -16,7 +16,7 @@ jupyter-client==5.3.3
 jupyter-console==6.0.0
 jupyter-core==4.5.0
 notebook==6.0.1
-numpy==1.18.1
+numpy==1.22.0
 pandas==0.25.1
 pandocfilters==1.4.2
 python-dateutil==2.8.0
